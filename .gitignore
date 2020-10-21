@@ -1,0 +1,8 @@
+/packages
+/MvcApplication/bin
+/MvcApplication/obj
+/MvcApplication/Web.Debug.config
+/MvcApplication/Web.Release.config
+.vs/
+*.suo
+*.user
